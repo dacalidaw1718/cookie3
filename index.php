@@ -5,7 +5,7 @@
     </head> 
     <body> 
         <?php echo "Afegint Cookies<br>"; 
-        echo "Sóc el desenvolupador dacali1718daw2"; 
+        echo "Sóc el desenvolupador dacalidaw1718"; 
         setcookie("nom", "Jordi Pons", time()+3600, "/", "", 0); 
         setcookie("edat", "21", time()+3600, "/", "", 0); 
         setcookie("cicle", "DAW", time()+3600, "/", "", 0); 
